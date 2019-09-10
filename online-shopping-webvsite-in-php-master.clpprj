@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<project name="D:\xampp5\htdocs\online-shopping-site-php\online-shopping-webvsite-in-php-master.clpprj">
+ <settings>
+  <PM_URL><![CDATA[http://localhost/C:/xampp/htdocs/online-shopping-webvsite-in-php-master]]></PM_URL>
+  <PM_HOME_URL><![CDATA[http://localhost/C:/xampp/htdocs/online-shopping-webvsite-in-php-master]]></PM_HOME_URL>
+  <PM_LIBS><![CDATA[]]></PM_LIBS>
+  <PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION>
+  <PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR>
+  <PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE>
+ </settings>
+ <removed value=";"/>
+ <added value=""/>
+ <lastopfiles>
+  <lastactivefile name=""/>
+ </lastopfiles>
+ <todoblock/>
+ <dbgurls/>
+ <filescache>
+  <file name="D:\xampp5\htdocs\online-shopping-site-php\database\storedb.sql" crc="1562163316000"/>
+  <file name="D:\xampp5\htdocs\online-shopping-site-php\css\style.css" crc="1529282416000"/>
+  <file name="D:\xampp5\htdocs\online-shopping-site-php\bootstrap\js\npm.js" crc="1529282416000"/>
+  <file name="D:\xampp5\htdocs\online-shopping-site-php\bootstrap\js\jquery-3.2.1.min.js" crc="1529282416000"/>
+  <file name="D:\xampp5\htdocs\online-shopping-site-php\bootstrap\js\bootstrap.min.js" crc="1529282416000"/>
+  <file name="D:\xampp5\htdocs\online-shopping-site-php\bootstrap\js\bootstrap.js" crc="1529282416000"/>
+  <file name="D:\xampp5\htdocs\online-shopping-site-php\bootstrap\css\bootstrap.min.css" crc="1529282416000"/>
+  <file name="D:\xampp5\htdocs\online-shopping-site-php\bootstrap\css\bootstrap.css" crc="1529282416000"/>
+  <file name="D:\xampp5\htdocs\online-shopping-site-php\bootstrap\css\bootstrap-theme.min.css" crc="1529282416000"/>
+  <file name="D:\xampp5\htdocs\online-shopping-site-php\bootstrap\css\bootstrap-theme.css" crc="1529282416000"/>
+  <file name="D:\xampp5\htdocs\online-shopping-site-php\user_registration_script.php" crc="1562161114000"/>
+  <file name="D:\xampp5\htdocs\online-shopping-site-php\success.php" crc="1568090047361"/>
+  <file name="D:\xampp5\htdocs\online-shopping-site-php\signup.php" crc="1568089594764"/>
+  <file name="D:\xampp5\htdocs\online-shopping-site-php\settings.php" crc="1568090013593"/>
+  <file name="D:\xampp5\htdocs\online-shopping-site-php\setting_script.php" crc="1562161138000"/>
+  <file name="D:\xampp5\htdocs\online-shopping-site-php\products.php" crc="1568089676066"/>
+  <file name="D:\xampp5\htdocs\online-shopping-site-php\logout.php" crc="1568089935440"/>
+  <file name="D:\xampp5\htdocs\online-shopping-site-php\login_submit.php" crc="1562160970000"/>
+  <file name="D:\xampp5\htdocs\online-shopping-site-php\login.php" crc="1568089536525"/>
+  <file name="D:\xampp5\htdocs\online-shopping-site-php\index.php" crc="1568089504250"/>
+  <file name="D:\xampp5\htdocs\online-shopping-site-php\header2.php" crc="1562163794000"/>
+  <file name="D:\xampp5\htdocs\online-shopping-site-php\header.php" crc="1568089309983"/>
+  <file name="D:\xampp5\htdocs\online-shopping-site-php\connection.php" crc="1562163620000"/>
+  <file name="D:\xampp5\htdocs\online-shopping-site-php\check_if_added.php" crc="1529282416000"/>
+  <file name="D:\xampp5\htdocs\online-shopping-site-php\cart_remove.php" crc="1529282416000"/>
+  <file name="D:\xampp5\htdocs\online-shopping-site-php\cart_add.php" crc="1529282416000"/>
+  <file name="D:\xampp5\htdocs\online-shopping-site-php\cart.php" crc="1568089814742"/>
+ </filescache>
+</project>

@@ -1,0 +1,15 @@
+
+<codestructure version="1.4">
+<phptree>
+<treenode node="check_if_added.php;PHP:PHP Include;D:\xampp5\htdocs\online-shopping-site-php\products.php;f13;2;31;2;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="connection.php;PHP:PHP Include;D:\xampp5\htdocs\online-shopping-site-php\cart.php;f13;2;27;2;;D:\xampp5\htdocs\online-shopping-site-php\cart_add.php;f13;1;27;1;;D:\xampp5\htdocs\online-shopping-site-php\cart_remove.php;f13;1;27;1;;D:\xampp5\htdocs\online-shopping-site-php\login.php;f13;1;27;1;;D:\xampp5\htdocs\online-shopping-site-php\login_submit.php;f13;1;27;1;;D:\xampp5\htdocs\online-shopping-site-php\setting_script.php;f13;2;27;2;;D:\xampp5\htdocs\online-shopping-site-php\settings.php;f13;2;27;2;;D:\xampp5\htdocs\online-shopping-site-php\signup.php;f13;1;27;1;;D:\xampp5\htdocs\online-shopping-site-php\success.php;f13;2;27;2;;D:\xampp5\htdocs\online-shopping-site-php\user_registration_script.php;f13;1;27;1;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="header.php;PHP:PHP Include;D:\xampp5\htdocs\online-shopping-site-php\cart.php;f24;43;34;43;;D:\xampp5\htdocs\online-shopping-site-php\index.php;f21;22;31;22;;D:\xampp5\htdocs\online-shopping-site-php\login.php;f25;23;35;23;;D:\xampp5\htdocs\online-shopping-site-php\logout.php;f25;24;35;24;;D:\xampp5\htdocs\online-shopping-site-php\products.php;f25;23;35;23;;D:\xampp5\htdocs\online-shopping-site-php\settings.php;f25;26;35;26;;D:\xampp5\htdocs\online-shopping-site-php\signup.php;f25;27;35;27;;D:\xampp5\htdocs\online-shopping-site-php\success.php;f25;31;35;31;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="check_if_added_to_cart;PHP:Function Name;D:\xampp5\htdocs\online-shopping-site-php\check_if_added.php;f4;2;5;11;;;;vpos;;v;;a;;r;;d45,2;;b0,0;;m0;;eitem_id;;p">
+<treenode node="connection.php;PHP:PHP Include;D:\xampp5\htdocs\online-shopping-site-php\check_if_added.php;f17;4;31;4;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+</phptree>
+</codestructure>
